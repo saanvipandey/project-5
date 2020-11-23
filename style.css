@@ -1,0 +1,36 @@
+body{
+	text-align:center;
+	background-color:hotpink;
+}
+div{
+	margin-top:15px;
+}
+.image-section{
+	display:flex;
+	justify-content: center;
+}
+.section-style{
+	margin-right:25px;
+	margin-left:25px;
+}
+img{
+	width:300px;
+	height:300px;	
+}
+h1{
+font-size:40px;
+	font-variant:small-caps;
+	color:blue;
+}
+h4{
+	font-size:30px;
+	color:red;
+}
+p{
+	font-size:25px;
+	color:black;
+	font-variant:small-caps;
+}
+img {
+}
+
